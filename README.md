@@ -1,4 +1,4 @@
-# 🐍 PYTHON-PROGRAMMING2  
+# 🐍 PYTHON-PROGRAM2  
 
 ## 📘 BCA Semester 2 – Python Programming Lab  
 **Course Code:** CSEG1021  
@@ -15,8 +15,8 @@ This repository contains all lab experiments and practice files for Python Progr
 
 ## 📂 Lab Experiments (LAB FILE Folder)
 
-| No. | File Name | 🔗 Open File |
-|-----|-----------|--------------|
+| No. | Experiment | 🔗 Open File |
+|-----|------------|--------------|
 | 1 | Experiment 1 | [Open](https://github.com/Krish07777/python-program2/blob/main/LAB%20FILE/Experiment%201.ipynb) |
 | 2 | Experiment2.28-010 | [Open](https://github.com/Krish07777/python-program2/blob/main/LAB%20FILE/Experiment2.28-010.ipynb) |
 | 3 | Experiment3 | [Open](https://github.com/Krish07777/python-program2/blob/main/LAB%20FILE/Experiment3.ipynb) |
@@ -31,14 +31,11 @@ This repository contains all lab experiments and practice files for Python Progr
 
 ---
 
-## 📄 Additional Text Files
+## 📄 Text Files
 
-| File Name | 🔗 Open |
-|-----------|--------|
-| city.txt | [Open](https://github.com/Krish07777/python-program2/blob/main/LAB%20FILE/city.txt) |
-| emp.txt | [Open](https://github.com/Krish07777/python-program2/blob/main/LAB%20FILE/emp.txt) |
-| integer.txt | [Open](https://github.com/Krish07777/python-program
-2/blob/main/LAB%20FILE/integer.txt) |
+- [city.txt](https://github.com/Krish07777/python-program2/blob/main/LAB%20FILE/city.txt)
+- [emp.txt](https://github.com/Krish07777/python-program2/blob/main/LAB%20FILE/emp.txt)
+- [integer.txt](https://github.com/Krish07777/python-program2/blob/main/LAB%20FILE/integer.txt)
 
 ---
 
