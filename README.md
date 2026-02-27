@@ -9,24 +9,35 @@
 
 ## 📌 About This Repository  
 
-This repository contains all lab experiments for Python Programming as per UPES BCA Semester 2 syllabus.
+This repository contains all lab experiments and practice files for Python Programming (BCA Semester 2).
 
 ---
 
-## 📂 Lab Experiments
+## 📂 Lab Experiments (LAB FILE Folder)
 
-| No. | Experiment Title | 🔗 Open File |
-|-----|------------------|--------------|
-| 1 | Python Installation and Starting with Python | [Open Experiment 1](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment%201.ipynb) |
-| 2 | Use of Input Statements and Operators | [Open Experiment 2](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment%202.ipynb) |
-| 3 | Conditional Statements | [Open Experiment 3](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment%203.ipynb) |
-| 4 | Loops | [Open Experiment 4](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment%204.ipynb) |
-| 5 | Strings and Sets | [Open Experiment 5](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment%205.ipynb) |
-| 6 | Lists, Tuples and Dictionary | [Open Experiment 6](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment%206.ipynb) |
-| 7 | Functions | [Open Experiment 7](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment%207.ipynb) |
-| 8 | File Handling and Exception Handling | [Open Experiment 8](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment%208.ipynb) |
-| 9 | Classes and Objects | [Open Experiment 9](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment%209.ipynb) |
-| 10 | Data Analysis and Visualization | [Open Experiment 10](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment%2010.ipynb) |
+| No. | File Name | 🔗 Open File |
+|-----|-----------|--------------|
+| 1 | Experiment 1 | [Open](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment%201.ipynb) |
+| 2 | Experiment2.28-010 | [Open](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment2.28-010.ipynb) |
+| 3 | Experiment3 | [Open](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment3.ipynb) |
+| 4 | Experiment4 | [Open](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment4.ipynb) |
+| 5 | Experiment5 | [Open](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment5.ipynb) |
+| 6 | Experiment6 | [Open](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment6.ipynb) |
+| 7 | Experiment7 | [Open](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment7.ipynb) |
+| 8 | Experiment8 | [Open](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment8.ipynb) |
+| 9 | Experiment9 | [Open](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment9.ipynb) |
+| 10 | Experiment10 | [Open](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/Experiment10.ipynb) |
+| 11 | recap | [Open](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/recap.ipynb) |
+
+---
+
+## 📄 Additional Text Files
+
+| File Name | 🔗 Open |
+|-----------|--------|
+| city.txt | [Open](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/city.txt) |
+| emp.txt | [Open](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/emp.txt) |
+| integer.txt | [Open](https://github.com/Krish07777/python-programming2/blob/main/LAB%20FILE/integer.txt) |
 
 ---
 
@@ -43,8 +54,7 @@ This repository contains all lab experiments for Python Programming as per UPES 
 ## 👨‍💻 Author
 
 **KRISH**  
-BCA   1
-UPES Dehradun  
+BCA – UPES Dehradun  
 
 ---
 
